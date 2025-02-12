@@ -1,6 +1,6 @@
 # Geonet JS
 
-Coded in Svelte
+Geonet frontend coded in Svelte
 
 ## Get started
 
